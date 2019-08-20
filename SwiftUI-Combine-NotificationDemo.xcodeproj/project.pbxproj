@@ -28,6 +28,7 @@
 		68A77FEB22EFAFCB0032F89D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		68A77FED22EFAFCB0032F89D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		68A77FF322EFB1A00032F89D /* View2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View2.swift; sourceTree = "<group>"; };
+		68B80B64230C60360011CB57 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +45,7 @@
 		68A77FD322EFAFC90032F89D = {
 			isa = PBXGroup;
 			children = (
+				68B80B64230C60360011CB57 /* README.md */,
 				68A77FDE22EFAFC90032F89D /* SwiftUI-Combine-NotificationDemo */,
 				68A77FDD22EFAFC90032F89D /* Products */,
 			);
