@@ -12,7 +12,7 @@ import SwiftUI
 import Combine
 
 struct ContentView: View {
-    @ObservedObject var model = ContentViewModel()
+    @ObservedObject var model = ContentViewModel()  // Subscribe to changes to our model (i.e. new notifications)
     
     var body: some View {
         NavigationView {
