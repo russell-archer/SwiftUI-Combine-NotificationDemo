@@ -1,6 +1,6 @@
 # SwiftUI-Combine-NotificationDemo
 ## Using SwiftUI and Combine extensions to NotificationCenter
-**(Updated for Xcode 11 Beta 6)**
+**(Updated for Xcode 11 Beta 7)**
 
 In this SwiftUI and Combine demo I create a simple iOS app that demonstrates how to use Combine extensions to NotificationCenter with SwiftUI.
 
